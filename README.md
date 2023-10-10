@@ -8,4 +8,4 @@ Code Fellows Reading Journal
 ## Ops 102 - Reading Notes
 1. [Class 1](https://github.com/nataliabdallah/102-reading-notes/wiki/Class-01-Reading:-What-is-a-computer%3F)
 2. [Class 2](https://github.com/nataliabdallah/102-reading-notes/wiki/Class-02:-Build-a-computer)
-3. [Class 3](
+3. [Class 3](https://github.com/nataliabdallah/102-reading-notes/wiki/Class-03:-Startup-Sequences-and-BIOS)
