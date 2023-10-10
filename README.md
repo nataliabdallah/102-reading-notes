@@ -6,4 +6,4 @@ Code Fellows Reading Journal
 ## Table of Contents
 
 ## Ops 102 - Reading Notes
-1. [Day 1](https://github.com/nataliabdallah/102-reading-notes.wiki.git)
+1. [Day 1](https://github.com/nataliabdallah/102-reading-notes/wiki/Class-01-Reading:-What-is-a-computer%3F)
