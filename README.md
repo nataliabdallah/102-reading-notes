@@ -6,4 +6,4 @@ Code Fellows Reading Journal
 ## Table of Contents
 
 ## Ops 102 - Reading Notes
-1. [Day 1](reading-notes/Class01.md)
+1. [Day 1](https://github.com/nataliabdallah/102-reading-notes.wiki.git)
