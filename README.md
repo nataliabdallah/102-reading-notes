@@ -12,3 +12,5 @@ Code Fellows Reading Journal
 2. [Class 2](https://github.com/nataliabdallah/102-reading-notes/wiki/Class-02:-Build-a-computer)
 3. [Class 3](https://github.com/nataliabdallah/102-reading-notes/wiki/Class-03:-Startup-Sequences-and-BIOS)
 4. [Class 4](https://github.com/nataliabdallah/102-reading-notes/wiki/Class-04:-Installing-Ubuntu-Linux)
+5. [Class 5](https://github.com/nataliabdallah/102-reading-notes/wiki/Class-05:-Installing-Virtualbox-with-Linux-Terminal)
+6. [Class 6](https://github.com/nataliabdallah/102-reading-notes/wiki/Class-06:-SOHO-Networking)
