@@ -14,3 +14,5 @@ Code Fellows Reading Journal
 4. [Class 4](https://github.com/nataliabdallah/102-reading-notes/wiki/Class-04:-Installing-Ubuntu-Linux)
 5. [Class 5](https://github.com/nataliabdallah/102-reading-notes/wiki/Class-05:-Installing-Virtualbox-with-Linux-Terminal)
 6. [Class 6](https://github.com/nataliabdallah/102-reading-notes/wiki/Class-06:-SOHO-Networking)
+7. [Class 7](https://github.com/nataliabdallah/102-reading-notes/wiki/Class-07:-Network-Connectivity)
+8. [Class 8](https://github.com/nataliabdallah/102-reading-notes/wiki/Class-08:-Virtualization-of-Windows)
