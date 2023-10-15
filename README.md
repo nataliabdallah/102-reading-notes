@@ -20,3 +20,4 @@ Code Fellows Reading Journal
 
 # 201-Reading-Notes
 Code Fellows Reading Journal
+[Pre-Work Reading](102-reading-notese/prompt-engineering.md)
