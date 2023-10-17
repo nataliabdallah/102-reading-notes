@@ -9,7 +9,7 @@ Code Fellows Reading Journal
 
 ## Ops 102 - Reading Notes
 1. [Class 1](https://github.com/nataliabdallah/102-reading-notes/wiki/Class-01-Reading:-What-is-a-computer%3F)
-2. [Class 2](https://github.com/nataliabdallah/102-reading-notes/wiki/Class-02:-Build-a-computer)
+2. [Class 2](https://github.com/nataliabdallah/102-reading-notes/wiki/102-Class-02:-Build-a-computer)
 3. [Class 3](https://github.com/nataliabdallah/102-reading-notes/wiki/102-Class-03:-Startup-Sequences-and-BIOS)
 4. [Class 4](https://github.com/nataliabdallah/102-reading-notes/wiki/Class-04:-Installing-Ubuntu-Linux)
 5. [Class 5](https://github.com/nataliabdallah/102-reading-notes/wiki/Class-05:-Installing-Virtualbox-with-Linux-Terminal)
