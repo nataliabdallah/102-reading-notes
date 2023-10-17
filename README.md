@@ -20,4 +20,4 @@ Code Fellows Reading Journal
 # 201-Reading-Notes
 Code Fellows Reading Journal
 1. [Pre-Work Reading](https://github.com/nataliabdallah/102-reading-notes/blob/main/prompt-engineering.md)
-
+2. [Class 1](https://github.com/nataliabdallah/102-reading-notes/wiki/201-Class-01:-How-to-use-System-Restore)   
