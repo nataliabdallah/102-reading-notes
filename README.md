@@ -16,8 +16,7 @@ Code Fellows Reading Journal
 6. [Class 6](https://github.com/nataliabdallah/102-reading-notes/wiki/Class-06:-SOHO-Networking)
 7. [Class 7](https://github.com/nataliabdallah/102-reading-notes/wiki/Class-07:-Network-Connectivity)
 8. [Class 8](https://github.com/nataliabdallah/102-reading-notes/wiki/Class-08:-Virtualization-of-Windows)
-9. [Class 9](https://github.com/nataliabdallah/102-reading-notes/wiki/Class-09:-Command-Line-Interface)
-
+9. [Class 9](https://github.com/nataliabdallah/102-reading-notes/wiki/102-Class-09:-Command-Line-Interface)
 # 201-Reading-Notes
 Code Fellows Reading Journal
 1. [Pre-Work Reading](https://github.com/nataliabdallah/102-reading-notes/blob/main/prompt-engineering.md)
