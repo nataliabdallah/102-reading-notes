@@ -25,4 +25,5 @@ You could also use [Awesome ChatGPT prompts](https://prompts.chat/){:target="_bl
 ## Submission Instructions
 
 Create a markdown file titled `prompt-engineering.md` in your reading notes repo and share the output from your chatbot. Submit the link to this created file.
+
 https://chat.openai.com/c/cca7bee5-2fd0-43ce-950b-1f237db94545
