@@ -24,3 +24,4 @@ Code Fellows Reading Journal
 3. [Class 2](https://github.com/nataliabdallah/102-reading-notes/wiki/Class-02:-What-is-Bash%3F)  
 4. [Class 3](https://github.com/nataliabdallah/102-reading-notes/wiki/201-Class-03:-Introduction-to-Help-Desk-Support-Roles)
 5. [Class 4](https://github.com/nataliabdallah/102-reading-notes/wiki/201-Class-04:-CompTIA-A--220%E2%80%90902-Troubleshooting-Methodology)
+6. [Class 5](https://github.com/nataliabdallah/102-reading-notes/wiki/201-Class-05:-Windows-Command-Line-Tools)
