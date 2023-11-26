@@ -25,3 +25,15 @@ Code Fellows Reading Journal
 4. [Class 3](https://github.com/nataliabdallah/102-reading-notes/wiki/201-Class-03:-Introduction-to-Help-Desk-Support-Roles)
 5. [Class 4](https://github.com/nataliabdallah/102-reading-notes/wiki/201-Class-04:-CompTIA-A--220%E2%80%90902-Troubleshooting-Methodology)
 6. [Class 5](https://github.com/nataliabdallah/102-reading-notes/wiki/201-Class-05:-Windows-Command-Line-Tools)
+7. [Class 6](https://github.com/nataliabdallah/102-reading-notes/wiki/201-Class-06:-Windows-Defender-Security-Center)
+8. [Class 7](https://github.com/nataliabdallah/102-reading-notes/wiki/201-Class-07:-Should-you-learn-Powershell%3F)
+9. [Class 8](https://github.com/nataliabdallah/102-reading-notes/wiki/201-Class-08:-System-Log-Analysis,-Registry,-Control-Panel)
+10. [Class 9](https://github.com/nataliabdallah/102-reading-notes/wiki/201-Class-09:--Workstation-Deployment-SOP)
+11. [Class 10](https://github.com/nataliabdallah/102-reading-notes/wiki/201-Class-10:-Imaging-Backup-and-Recovery)
+12. [Class 11](https://github.com/nataliabdallah/102-reading-notes/wiki/201-Class-11:-Data-Restoration,-Startup-Repair,-and-Secure-Disposal)
+13. [Class 12](https://github.com/nataliabdallah/102-reading-notes/wiki/201-Class-12:-Virtualizing-a-Router-with-pfSense)
+14. [Class 13](https://github.com/nataliabdallah/102-reading-notes/wiki/201-Class-13:-Cloud-Virtualization-with-AWS)
+15. [Class 14](https://github.com/nataliabdallah/102-reading-notes/wiki/201-Class-14:-Malware-Remediation-Tools-and-Techniques)
+# 301-Reading-Notes
+Code Fellows Reading Journal
+1. [Class 1]()
