@@ -36,4 +36,4 @@ Code Fellows Reading Journal
 15. [Class 14](https://github.com/nataliabdallah/102-reading-notes/wiki/201-Class-14:-Malware-Remediation-Tools-and-Techniques)
 # 301-Reading-Notes
 Code Fellows Reading Journal
-1. [Class 1]()
+1. [Class 1](https://github.com/nataliabdallah/codefellows-ops-reading-notes/wiki/301-Class-1:-Network-Traffic-Analysis-with-Wireshark)
