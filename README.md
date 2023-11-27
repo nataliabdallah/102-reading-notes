@@ -1,13 +1,13 @@
 [102](https://github.com/codefellows/seattle-ops-102d10) | [201](https://github.com/codefellows/seattle-ops-201d10) | [301](https://github.com/codefellows/seattle-ops-301d10) | [Home](https://github.com/nataliabdallah/102-reading-notes/wiki) | [README.md](https://github.com/nataliabdallah/102-reading-notes#readme) | [Portfolio](https://github.com/nataliabdallah)
 
-# 102-Reading-Notes
+# Code Fellows ops-Reading-Notes
 Code Fellows Reading Journal
 
 ### Link to my Github Portfolio: [Nathalie Abdallah](https://github.com/nataliabdallah)
 
 ## Table of Contents
 
-## Ops 102 - Reading Notes
+# 102 - Reading Notes
 1. [Class 1](https://github.com/nataliabdallah/102-reading-notes/wiki/102-Class-01-Reading:-What-is-a-computer%3F)
 2. [Class 2](https://github.com/nataliabdallah/102-reading-notes/wiki/102-Class-02:-Build-a-computer)
 3. [Class 3](https://github.com/nataliabdallah/102-reading-notes/wiki/102-Class-03:-Startup-Sequences-and-BIOS)
@@ -18,7 +18,6 @@ Code Fellows Reading Journal
 8. [Class 8](https://github.com/nataliabdallah/102-reading-notes/wiki/102-Class-08:-Virtualization-of-Windows)
 9. [Class 9](https://github.com/nataliabdallah/102-reading-notes/wiki/102-Class-09:-Command-Line-Interface)
 # 201-Reading-Notes
-Code Fellows Reading Journal
 1. [Pre-Work Reading](https://github.com/nataliabdallah/102-reading-notes/blob/main/prompt-engineering.md)
 2. [Class 1](https://github.com/nataliabdallah/102-reading-notes/wiki/201-Class-01:-How-to-use-System-Restore)
 3. [Class 2](https://github.com/nataliabdallah/102-reading-notes/wiki/201-Class-02:-What-is-Bash%3F)
@@ -35,5 +34,4 @@ Code Fellows Reading Journal
 14. [Class 13](https://github.com/nataliabdallah/102-reading-notes/wiki/201-Class-13:-Cloud-Virtualization-with-AWS)
 15. [Class 14](https://github.com/nataliabdallah/102-reading-notes/wiki/201-Class-14:-Malware-Remediation-Tools-and-Techniques)
 # 301-Reading-Notes
-Code Fellows Reading Journal
 1. [Class 1](https://github.com/nataliabdallah/codefellows-ops-reading-notes/wiki/301-Class-1:-Network-Traffic-Analysis-with-Wireshark)
