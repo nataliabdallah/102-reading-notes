@@ -35,4 +35,17 @@ Code Fellows Reading Journal
 15. [Class 14](https://github.com/nataliabdallah/102-reading-notes/wiki/201-Class-14:-Malware-Remediation-Tools-and-Techniques)
 # 301-Reading-Notes
 1. [Class 1](https://github.com/nataliabdallah/codefellows-ops-reading-notes/wiki/301-Class-01:-Network-Traffic-Analysis-with-Wireshark)
-2. [Class 2](
+2. [Class 2](https://github.com/nataliabdallah/codefellows-ops-reading-notes/wiki/301-Class-02%3A-Network-Scanning-with-NMAP/_edit)
+3. [Class 3](https://github.com/nataliabdallah/codefellows-ops-reading-notes/wiki/301-Class-03:-Network-Segmentation)
+4. [Class 4](https://github.com/nataliabdallah/codefellows-ops-reading-notes/wiki/301-Class-04:-Routing)
+5. [Class 5](https://github.com/nataliabdallah/codefellows-ops-reading-notes/wiki/301-Class-05:-VPN-Tunnel)
+6. [Class 6](https://github.com/nataliabdallah/codefellows-ops-reading-notes/wiki/301-Class-06:-Network-Address-Translation)
+7. [Class 7](https://github.com/nataliabdallah/codefellows-ops-reading-notes/wiki/301-Class-07:-Web-Server-Deployment)
+8. [Class 8](https://github.com/nataliabdallah/codefellows-ops-reading-notes/wiki/301-Class-08:-RADIUS-Authentication)
+9. [Class 9](https://github.com/nataliabdallah/codefellows-ops-reading-notes/wiki/201-Class-09:--Workstation-Deployment-SOP)
+10. [Class 10](https://github.com/nataliabdallah/codefellows-ops-reading-notes/wiki/301-Class-10:-VPC)
+11. [Class 11](https://github.com/nataliabdallah/codefellows-ops-reading-notes/wiki/301-Class-11:-Windows-Server)
+12. [Class 12](https://github.com/nataliabdallah/codefellows-ops-reading-notes/wiki/201-Class-12:-Virtualizing-a-Router-with-pfSense)
+13. [Class 13](https://github.com/nataliabdallah/codefellows-ops-reading-notes/wiki/301-Class-13:-Active-Directory)
+14. [Class 14](https://github.com/nataliabdallah/codefellows-ops-reading-notes/wiki/301-Class-14:-Group-Policy)
+    
