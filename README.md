@@ -48,4 +48,6 @@ Code Fellows Reading Journal
 12. [Class 12](https://github.com/nataliabdallah/codefellows-ops-reading-notes/wiki/201-Class-12:-Virtualizing-a-Router-with-pfSense)
 13. [Class 13](https://github.com/nataliabdallah/codefellows-ops-reading-notes/wiki/301-Class-13:-Active-Directory)
 14. [Class 14](https://github.com/nataliabdallah/codefellows-ops-reading-notes/wiki/301-Class-14:-Group-Policy)
-    
+# 401-Reading-Notes
+1. [Class 1l(https://github.com/nataliabdallah/codefellows-ops-reading-notes/wiki/401-Read-01:-Strategic-Policy-Development)https://github.com/nataliabdallah/codefellows-ops-reading-notes/wiki/401-Read-01:-Strategic-Policy-Development)
+2. 
