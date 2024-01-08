@@ -49,5 +49,6 @@ Code Fellows Reading Journal
 13. [Class 13](https://github.com/nataliabdallah/codefellows-ops-reading-notes/wiki/301-Class-13:-Active-Directory)
 14. [Class 14](https://github.com/nataliabdallah/codefellows-ops-reading-notes/wiki/301-Class-14:-Group-Policy)
 # 401-Reading-Notes
+[PREP](https://github.com/nataliabdallah/codefellows-ops-reading-notes/wiki/401-Prep-Your-Mindset)
 1. [Class 1](https://github.com/nataliabdallah/codefellows-ops-reading-notes/wiki/401-Read-01:-Strategic-Policy-Development)
 2. 
