@@ -50,5 +50,5 @@ Code Fellows Reading Journal
 14. [Class 14](https://github.com/nataliabdallah/codefellows-ops-reading-notes/wiki/301-Class-14:-Group-Policy)
 # 401-Reading-Notes
 [PREP](https://github.com/nataliabdallah/codefellows-ops-reading-notes/wiki/401-Prep-Your-Mindset)
-1. [Class 1](https://github.com/nataliabdallah/codefellows-ops-reading-notes/wiki/401-Read-01:-Strategic-Policy-Development)
+1. [Class 1](https://github.com/nataliabdallah/codefellows-ops-reading-notes/wiki/401-Class-01:-Strategic-Policy-Development)
 2. 
