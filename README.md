@@ -51,4 +51,5 @@ Code Fellows Reading Journal
 # 401-Reading-Notes
 [PREP](https://github.com/nataliabdallah/codefellows-ops-reading-notes/wiki/401-Prep-Your-Mindset)
 1. [Class 1](https://github.com/nataliabdallah/codefellows-ops-reading-notes/wiki/401-Class-01:-Strategic-Policy-Development)
-2. 
+2. [Class 2](https://github.com/nataliabdallah/codefellows-ops-reading-notes/wiki/401-Class-02:-Cloud-Security-Principles-and-Frameworks)
+3. [Class 3](https://github.com/nataliabdallah/codefellows-ops-reading-notes/wiki/401-Class-03:-Cyber-Risk-Analysis)
