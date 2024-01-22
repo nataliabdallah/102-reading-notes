@@ -56,3 +56,4 @@ Code Fellows Reading Journal
 4. [Class 4](https://github.com/nataliabdallah/codefellows-ops-reading-notes/wiki/401-Class-04:Systems-Hardening-with-CIS-Standards)
 5. [Class 6](https://github.com/nataliabdallah/codefellows-ops-reading-notes/wiki/401-Class-06:--Data-file-encryption)
 6. [Class 7](https://github.com/nataliabdallah/codefellows-ops-reading-notes/wiki/401-Class-07:-Protecting-Data-at-Rest-with-Device-Encryption)
+7. [Class 9](https://github.com/nataliabdallah/codefellows-ops-reading-notes/wiki/401-Class-09:-Public-Key-Infrastructure-(PKI))
