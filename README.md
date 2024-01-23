@@ -58,3 +58,4 @@ Code Fellows Reading Journal
 6. [Class 7](https://github.com/nataliabdallah/codefellows-ops-reading-notes/wiki/401-Class-07:-Protecting-Data-at-Rest-with-Device-Encryption)
 7. [Class 9](https://github.com/nataliabdallah/codefellows-ops-reading-notes/wiki/401-Class-09:-Public-Key-Infrastructure-(PKI))
 8. [Class 11](https://github.com/nataliabdallah/codefellows-ops-reading-notes/wiki/401-Class-11:-Setting-up-Splunk-SIEM)
+9. [Class 12](https://github.com/nataliabdallah/codefellows-ops-reading-notes/wiki/401-Class-12:-Log-Analysis-with-Splunk)
