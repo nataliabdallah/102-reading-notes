@@ -59,3 +59,4 @@ Code Fellows Reading Journal
 7. [Class 9](https://github.com/nataliabdallah/codefellows-ops-reading-notes/wiki/401-Class-09:-Public-Key-Infrastructure-(PKI))
 8. [Class 11](https://github.com/nataliabdallah/codefellows-ops-reading-notes/wiki/401-Class-11:-Setting-up-Splunk-SIEM)
 9. [Class 12](https://github.com/nataliabdallah/codefellows-ops-reading-notes/wiki/401-Class-12:-Log-Analysis-with-Splunk)
+10. [Class 13](https://github.com/nataliabdallah/codefellows-ops-reading-notes/wiki/401-Class-13:-Reconstructing-a-Cloud-Attack-with-Splunk)
