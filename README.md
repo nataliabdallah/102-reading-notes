@@ -60,3 +60,4 @@ Code Fellows Reading Journal
 8. [Class 11](https://github.com/nataliabdallah/codefellows-ops-reading-notes/wiki/401-Class-11:-Setting-up-Splunk-SIEM)
 9. [Class 12](https://github.com/nataliabdallah/codefellows-ops-reading-notes/wiki/401-Class-12:-Log-Analysis-with-Splunk)
 10. [Class 13](https://github.com/nataliabdallah/codefellows-ops-reading-notes/wiki/401-Class-13:-Reconstructing-a-Cloud-Attack-with-Splunk)
+11. [Class 14](https://github.com/nataliabdallah/codefellows-ops-reading-notes/wiki/401-Class-14:-Intrusion-Detection-and-Prevention-Systems-(IDS-IPS))
