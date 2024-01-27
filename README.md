@@ -61,3 +61,4 @@ Code Fellows Reading Journal
 9. [Class 12](https://github.com/nataliabdallah/codefellows-ops-reading-notes/wiki/401-Class-12:-Log-Analysis-with-Splunk)
 10. [Class 13](https://github.com/nataliabdallah/codefellows-ops-reading-notes/wiki/401-Class-13:-Reconstructing-a-Cloud-Attack-with-Splunk)
 11. [Class 14](https://github.com/nataliabdallah/codefellows-ops-reading-notes/wiki/401-Class-14:-Intrusion-Detection-and-Prevention-Systems-(IDS-IPS))
+12. [Class 16](https://github.com/nataliabdallah/codefellows-ops-reading-notes/wiki/401-Class-16:-Cloud-Identity-and-Access-Management-(IAM)-with-AWS)
