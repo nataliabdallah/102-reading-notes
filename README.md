@@ -63,3 +63,4 @@ Code Fellows Reading Journal
 11. [Class 14](https://github.com/nataliabdallah/codefellows-ops-reading-notes/wiki/401-Class-14:-Intrusion-Detection-and-Prevention-Systems-(IDS-IPS))
 12. [Class 16](https://github.com/nataliabdallah/codefellows-ops-reading-notes/wiki/401-Class-16:-Cloud-Identity-and-Access-Management-(IAM)-with-AWS)
 13. [Class 17](https://github.com/nataliabdallah/codefellows-ops-reading-notes/wiki/401-Class-17:-Cloud-Network-Security)
+14. [Class 18](https://github.com/nataliabdallah/codefellows-ops-reading-notes/wiki/401-Class-18:-Logging-and-Monitoring)
