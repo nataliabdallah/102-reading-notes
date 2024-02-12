@@ -64,3 +64,5 @@ Code Fellows Reading Journal
 12. [Class 16](https://github.com/nataliabdallah/codefellows-ops-reading-notes/wiki/401-Class-16:-Cloud-Identity-and-Access-Management-(IAM)-with-AWS)
 13. [Class 17](https://github.com/nataliabdallah/codefellows-ops-reading-notes/wiki/401-Class-17:-Cloud-Network-Security)
 14. [Class 18](https://github.com/nataliabdallah/codefellows-ops-reading-notes/wiki/401-Class-18:-Logging-and-Monitoring)
+15. [Class 19](https://github.com/nataliabdallah/codefellows-ops-reading-notes/wiki/401-Class-19:-Cloud-Detective-Controls)
+16. 16. [Class 20](
